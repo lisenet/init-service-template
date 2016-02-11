@@ -1,2 +1,2 @@
 # init-service-template
-Template script for an init service.
+Template for an init service to call a wrapper script.
